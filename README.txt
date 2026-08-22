@@ -1,7 +1,7 @@
 ﻿========================================================
  VR クロマキーパネル  v1.0.0
  作者: ゆるる (https://x.com/yururutti)
- ソース: ★https://github.com/runatama/VR-Chroma-key-panel★
+ ソース: ★https://github.com/Yurutama/VR-Chroma-key-panel★
 ========================================================
 
 VR空間に「緑の板」を置いて、Virtual Desktop のクロマキー
@@ -34,7 +34,7 @@ SteamVR のオーバーレイ機能だけを使っています。
 
 ■ Python版（中身を見たい・自分で改造したい方向け）
    下記の GitHub で配布しています。
-     ★https://github.com/runatama/VR-Chroma-key-panel★
+     ★https://github.com/Yurutama/VR-Chroma-key-panel★
    Python 3.9 以降が必要です。
    インストール時に「Add python.exe to PATH」への
    チェックが必須です。
