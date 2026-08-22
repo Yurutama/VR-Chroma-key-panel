@@ -34,7 +34,7 @@ SteamVR のオーバーレイ機能だけを使っています。
 
 ■ Python版（中身を見たい・自分で改造したい方向け）
    下記の GitHub で配布しています。
-     ★GitHubのURLをここに貼ってください★
+     ★https://github.com/runatama/VR-Chroma-key-panel★
    Python 3.9 以降が必要です。
    インストール時に「Add python.exe to PATH」への
    チェックが必須です。
